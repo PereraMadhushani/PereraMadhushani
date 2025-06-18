@@ -1,7 +1,7 @@
 # 🚀 Welcome to My Digital Universe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+World!+I'm+Your+Name+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Architect+%E2%98%81%EF%B8%8F;AI+Enthusiast+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+World!+I'm+Madhushani+Perera+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Architect+%E2%98%81%EF%B8%8F;AI+Enthusiast+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
